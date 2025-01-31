@@ -5,9 +5,9 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,wit.edu.cn
 DOMAIN-SUFFIX,edu.cn
+# DOMAIN-SUFFIX,wit.edu.cn
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
